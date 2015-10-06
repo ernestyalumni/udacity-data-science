@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+##### run this from your local copy of /ud120-projects-master/choose_your_own     
+
 import matplotlib.pyplot as plt
 from prep_terrain_data import makeTerrainData
 from class_vis import prettyPicture
